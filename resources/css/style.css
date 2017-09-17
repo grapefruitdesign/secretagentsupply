@@ -1,0 +1,17 @@
+html {
+  background-color: white;
+  font-size: 18px;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+.container {
+  width: 960px;
+}
+
+.company {
+  background-color: black;
+  color: white;
+}
